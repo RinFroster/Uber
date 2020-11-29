@@ -1,3 +1,9 @@
+/* bài làm tôt lắm đúng công thức. các chứ số cố định nên gán vào một biến để có thể tái 
+* sử dụng, dễ quản lí và nâng cấp về sau.
+* chua hoan thành bai tập,vi người dùng bình thường sẽ không dùng đến màn hình console mà phải in ra màn hình
+* ex: vảr firstMinusUberX = 8000;
+* .....
+*/
 document
   .getElementsByClassName("contact100-form-btn")[0]
   .addEventListener("click", function () {
